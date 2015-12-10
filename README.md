@@ -1,5 +1,5 @@
-IGW Terraform module
-====================
+Internet Gateway Terraform module
+=================================
 
 A Terraform module to provide an Internet Gateway in AWS.
 
@@ -30,8 +30,7 @@ Outputs
 Authors
 =======
 
-Originally created and maintained in [hashicorp/atlas-examples](https://github.com/hashicorp/atlas-examples/tree/master/infrastructures/terraform/aws/network/igw).
-Hijacked by [Anton Babenko](https://github.com/antonbabenko)
+Originally created and maintained by [Anton Babenko](https://github.com/antonbabenko)
 
 License
 =======
